@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Environment variable files
+.env
+
+# Google Cloud credentials JSON file
+stellar-acre-407408-260769a1414c.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# MacOS system files
+.DS_Store
+
+# Misc
+*.swp
